@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace day10_LinkedList
+namespace day14_LinkedList
 {
     class uc4_insertionInLinkedList
     {
